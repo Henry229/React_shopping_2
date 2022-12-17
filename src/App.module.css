@@ -1,0 +1,42 @@
+button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background: transparent;
+}
+
+.container {
+  width: 30rem;
+  background: white;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.input {
+  width: 80%;
+  height: 2rem;
+  background: #e3f1f7;
+  outline: none;
+  border: none;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.submitBtn {
+  height: 2rem;
+  background: #9ed6ed;
+  border-radius: 0 7px 7px 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.allClearBtn {
+  font-size: 1.2rem;
+  color: red;
+  margin-top: 1rem;
+}
